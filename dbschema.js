@@ -19,6 +19,14 @@ let db = {
       likeCount: 5,
       commentCount: 2
     }
+  ],
+  comments: [
+    {
+      userHandle: "user",
+      postId: "kdjsfgdksuufhgkdsufky",
+      body: "nice one mate!",
+      createdAt: "2019-03-15T10:59:52.798Z"
+    }
   ]
 };
 const userDetails = {
